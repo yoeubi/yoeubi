@@ -4,6 +4,7 @@
 - 🔭 직장: 노리코리아
 - 🌱 공부: GCP 자격증,Typescript, Javascript
 - ⚡ 흥미: 전반적인 개발 프로세스 경험, 좋은 개발자 되기, 최적화, 서버
+- 💬 연락: yoeubi28@gmail.com
 
 
 
